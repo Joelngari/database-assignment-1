@@ -58,6 +58,12 @@ The following key tables are to be designed and implemented for the bookstore da
 14. **order_history**: A record of the history of an order (e.g., ordered, cancelled, delivered).
 15. **order_status**: A list of possible statuses for an order (e.g., pending, shipped, delivered).
 
+## 🗺 ERD Diagram
+
+To visualize your schema, create an Entity Relationship Diagram (ERD) using **Draw.io** with:
+- Table names and fields
+- Primary and foreign keys
+- Relationships (one-to-many, many-to-many)
 
 ## License
 
